@@ -1,17 +1,18 @@
-# HappenIn 
+# na
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Table of Contents 
-  [Description](#description)<br />
-  [Installation-Instructions](#installation-instructions)<br />
-  [Usage-Information](#usage-information)<br />
-  [Contributing-Guidelines](#contributing-guidelines)<br />
-  [Testing-Instructions](#testing-instructions)<br />
-  [Questions](#questions) 
+  [Description](##-description)<br />
+  [Installation Instructions](##-installation-instructions)<br />
+  [Usage Information](##-usage-information)<br />
+  [Contributing Guidelines](##-contributing-guidelines)<br />
+  [Testing Instructions](##-testing-instructions)<br />
+  [Questions](##-questions)<br />
+  [License](##-license) 
   
   ## Description 
-  Wazz HappenIn 
+  na
   
   ## Installation Instructions
   na
@@ -24,6 +25,9 @@
 
   ## Testing Instructions
   na
+
+  ## License 
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Questions 
   Email Me: zsalazar.tv@gmail.com 
