@@ -17,6 +17,42 @@ const questions = [
   },
 
   {
+    type: 'input',
+    message: 'What is your project all about?', 
+    name: 'Description' 
+  }, 
+
+  {
+    type: 'input',
+   message: 'Briefly describe your installation instructions',
+    name: 'Installation'
+}, 
+
+{
+  type: 'input',
+  message: 'Briefly describe your project Useage Information',
+  name: 'Usage', 
+}, 
+
+{
+  type: 'input',
+  message: 'What are the Contributing Guidlines of your project', 
+  name: 'cont'
+}, 
+
+{
+  type:'input',
+  message: 'What are the Testing Instructions of your project',
+  name: 'test', 
+},
+
+{
+  type:'input',
+  message: 'What is your GitHub Username', 
+  name: 'username',
+}, 
+
+  {
   type: "list", 
   message: "What kind of liscense would you like?",
   name: 'license', 
@@ -31,11 +67,6 @@ const questions = [
   ]
   },
 
-  {
-    type: 'input',
-    message: 'What is your project all about?', 
-    name: 'Description' 
-  }, 
   
 ];
 
