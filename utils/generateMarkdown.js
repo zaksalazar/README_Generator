@@ -17,13 +17,12 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Table of Contents 
-  [Description](##-description)<br />
-  [Installation Instructions](##-installation-instructions)<br />
-  [Usage Information](##-usage-information)<br />
-  [Contributing Guidelines](##-contributing-guidelines)<br />
-  [Testing Instructions](##-testing-instructions)<br />
-  [Questions](##-questions)<br />
-  [License](##-license.data.name) 
+  [Description](#-description)<br />
+  [Installation Instructions](#-installation-instructions)<br />
+  [Usage Information](#-usage-information)<br />
+  [Contributing Guidelines](#-contributing-guidelines)<br />
+  [Testing Instructions](#-testing-instructions)<br />
+  [Questions](#-questions)<br />
   
   ## Description 
   ${data.Description}
@@ -39,9 +38,6 @@ function generateMarkdown(data) {
 
   ## Testing Instructions
   ${data.test}
-
-  ## License 
-  ${data.license.name}
 
   ## Questions 
   Email Me: ${data.email}

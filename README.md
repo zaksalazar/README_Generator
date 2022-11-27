@@ -1,33 +1,30 @@
-# na
+# HappenIn 
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents 
-  [Description](##-description)<br />
-  [Installation Instructions](##-installation-instructions)<br />
-  [Usage Information](##-usage-information)<br />
-  [Contributing Guidelines](##-contributing-guidelines)<br />
-  [Testing Instructions](##-testing-instructions)<br />
-  [Questions](##-questions)<br />
-  [License](##-license) 
+  [Description](#-description)<br />
+  [Installation Instructions](#-installation-instructions)<br />
+  [Usage Information](#-usage-information)<br />
+  [Contributing Guidelines](#-contributing-guidelines)<br />
+  [Testing Instructions](#-testing-instructions)<br />
+  [Questions](#-questions)<br />
+  [License](#-license) 
   
   ## Description 
-  na
+  Waz HappenIn 
   
   ## Installation Instructions
-  na
+  NA
   
   ## Usage Information 
-  na
+  NA
 
   ## Contributing Guidelines 
-  na
+  NA
 
   ## Testing Instructions
-  na
-
-  ## License 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  NA
 
   ## Questions 
   Email Me: zsalazar.tv@gmail.com 
